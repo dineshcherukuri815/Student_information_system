@@ -1,1 +1,2 @@
-# Student_information_system
+# osrs
+student registration
